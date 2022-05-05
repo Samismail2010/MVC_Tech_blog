@@ -11,7 +11,7 @@ const commentFormHandler = async function (event) {
                 postId,
                 body
             }),
-            header: {
+            headers: {
                 'Content-Type': 'application/json'
             }
         });
