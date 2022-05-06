@@ -24,8 +24,11 @@ Tech blog where users can publish articles, post and comment opinions
 * dotenv
 * bcrypt
 
-## Language
-* 
+## Screenshot
+<img width="1511" alt="Screen Shot 2022-05-05 at 8 34 28 PM" src="https://user-images.githubusercontent.com/88996409/167052464-4f233767-e373-42f0-a8a4-2a80f8461c51.png">
+
+## Deployed URL
+https://git.heroku.com/whispering-basin-92586.git
 
 ## Usage
 mysql -u root -p Enter your MySQL password. Then run: source db/schema.sql quit npm start
